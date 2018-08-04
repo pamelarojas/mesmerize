@@ -1,0 +1,568 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Front Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-22 12:15+0100\n"
+"PO-Revision-Date: 2016-03-09 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: Themes4WP <info@themes4wp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: include/framework\n"
+
+#: include/backup.php:44
+msgid "Backup/Restore Front Page Builder Options"
+msgstr ""
+
+#: include/backup.php:50
+msgid "Backup/Export"
+msgstr ""
+
+#: include/backup.php:51
+msgid "Here are the stored settings:"
+msgstr ""
+
+#: include/backup.php:53
+msgid "Download as file"
+msgstr ""
+
+#: include/backup.php:56
+msgid "Restore/Import"
+msgstr ""
+
+#: include/backup.php:57
+msgid "Restore a previous backup"
+msgstr ""
+
+#: include/options.php:22
+msgid "Front Page Builder Settings"
+msgstr ""
+
+#: include/options.php:26
+msgid "Front Page Layout"
+msgstr ""
+
+#: include/options.php:33
+msgid "Slider Settings"
+msgstr ""
+
+#: include/options.php:40
+msgid "Services Settings"
+msgstr ""
+
+#: include/options.php:47
+msgid "Blog Settings"
+msgstr ""
+
+#: include/options.php:54
+msgid "Testimonial Settings"
+msgstr ""
+
+#: include/options.php:61
+msgid "Background Image Settings"
+msgstr ""
+
+#: include/options.php:68 include/options/global-options.php:28
+msgid "Custom Section #1"
+msgstr ""
+
+#: include/options.php:75
+msgid "Contact Settings"
+msgstr ""
+
+#: include/options.php:82
+msgid "Header & Menu"
+msgstr ""
+
+#: include/options/bg-image-options.php:9
+#: include/options/global-options.php:379 include/options/slider-options.php:6
+msgid "Menu Title"
+msgstr ""
+
+#: include/options/bg-image-options.php:17
+#: include/options/global-options.php:333
+msgid "Content Layout"
+msgstr ""
+
+#: include/options/bg-image-options.php:22
+#: include/options/global-options.php:338 include/options/slider-options.php:20
+msgid "Boxed"
+msgstr ""
+
+#: include/options/bg-image-options.php:23 include/options/blog-options.php:27
+#: include/options/global-options.php:339
+msgid "FullWidth"
+msgstr ""
+
+#: include/options/bg-image-options.php:29
+#: include/options/global-options.php:29
+msgid "Background Image"
+msgstr ""
+
+#: include/options/bg-image-options.php:51 include/options/menu-options.php:17
+msgid "Title Font"
+msgstr ""
+
+#: include/options/bg-image-options.php:74
+msgid "Description Font"
+msgstr ""
+
+#: include/options/bg-image-options.php:96
+msgid "Caption background color"
+msgstr ""
+
+#: include/options/bg-image-options.php:114
+#: include/options/services-options.php:225
+#: include/options/slider-options.php:325
+msgid "Title"
+msgstr ""
+
+#: include/options/bg-image-options.php:129
+#: include/options/services-options.php:230
+#: include/options/slider-options.php:330
+msgid "Description"
+msgstr ""
+
+#: include/options/bg-image-options.php:144
+#: include/options/blog-options.php:189
+msgid "Button Text"
+msgstr ""
+
+#: include/options/bg-image-options.php:159
+msgid "Button URL"
+msgstr ""
+
+#: include/options/bg-image-options.php:167
+#: include/options/blog-options.php:140 include/options/slider-options.php:263
+msgid "Button Color"
+msgstr ""
+
+#: include/options/bg-image-options.php:172
+msgid "Color"
+msgstr ""
+
+#: include/options/bg-image-options.php:173
+msgid "Hover"
+msgstr ""
+
+#: include/options/bg-image-options.php:195
+msgid "Content position"
+msgstr ""
+
+#: include/options/bg-image-options.php:200
+#: include/options/slider-options.php:348
+msgid "Left"
+msgstr ""
+
+#: include/options/bg-image-options.php:201
+#: include/options/slider-options.php:350
+msgid "Right"
+msgstr ""
+
+#: include/options/blog-options.php:9
+msgid "Number of posts"
+msgstr ""
+
+#: include/options/blog-options.php:22
+msgid "Layout"
+msgstr ""
+
+#: include/options/blog-options.php:28
+msgid "Inline"
+msgstr ""
+
+#: include/options/blog-options.php:29
+msgid "Grid"
+msgstr ""
+
+#: include/options/blog-options.php:30
+msgid "Images"
+msgstr ""
+
+#: include/options/blog-options.php:36
+msgid "Posts per row"
+msgstr ""
+
+#: include/options/blog-options.php:58
+msgid "Blog Title Font"
+msgstr ""
+
+#: include/options/blog-options.php:81
+msgid "Blog Excerpt Font"
+msgstr ""
+
+#: include/options/blog-options.php:106 include/options/contact-options.php:59
+#: include/options/custom-one-options.php:34
+#: include/options/testimonial-options.php:58
+msgid "Links Color"
+msgstr ""
+
+#: include/options/blog-options.php:107 include/options/contact-options.php:60
+#: include/options/custom-one-options.php:35
+#: include/options/testimonial-options.php:59
+msgid "Links Hover Color"
+msgstr ""
+
+#: include/options/blog-options.php:108
+msgid "Text Color"
+msgstr ""
+
+#: include/options/blog-options.php:141 include/options/slider-options.php:264
+msgid "Button Hover Color"
+msgstr ""
+
+#: include/options/blog-options.php:174
+msgid "Button to archive"
+msgstr ""
+
+#: include/options/contact-options.php:8
+msgid "Google Map"
+msgstr ""
+
+#: include/options/contact-options.php:9
+msgid "Enable google map"
+msgstr ""
+
+#: include/options/contact-options.php:17
+msgid "Google map API key"
+msgstr ""
+
+#: include/options/contact-options.php:18
+#, php-format
+msgid "Paste your API key. Get the API key %s."
+msgstr ""
+
+#: include/options/contact-options.php:34
+#: include/options/custom-one-options.php:9
+msgid "Section Font"
+msgstr ""
+
+#: include/options/contact-options.php:84
+msgid "Contact Form"
+msgstr ""
+
+#: include/options/contact-options.php:85
+msgid "Select form from Contact Form 7 plugin"
+msgstr ""
+
+#: include/options/contact-options.php:95
+#, php-format
+msgid "Plugin %1$s is not installed and activated. Activate it to enable %1$s functions."
+msgstr ""
+
+#: include/options/contact-options.php:103
+msgid "About text"
+msgstr ""
+
+#: include/options/custom-one-options.php:59
+msgid "Select Page Content"
+msgstr ""
+
+#: include/options/global-options.php:9
+msgid "Force enable on front page"
+msgstr ""
+
+#: include/options/global-options.php:10
+msgid "This will override WordPress homepage settings and enable the template on your front page."
+msgstr ""
+
+#: include/options/global-options.php:18
+msgid "Homepage Blocks"
+msgstr ""
+
+#: include/options/global-options.php:20
+msgid "Drag and Drop and enable the homepage blocks."
+msgstr ""
+
+#: include/options/global-options.php:24
+msgid "Slider"
+msgstr ""
+
+#: include/options/global-options.php:25
+#: include/options/services-options.php:192
+msgid "Services"
+msgstr ""
+
+#: include/options/global-options.php:26
+msgid "Blog"
+msgstr ""
+
+#: include/options/global-options.php:27
+#: include/options/testimonial-options.php:145
+#: include/options/testimonial-options.php:156
+msgid "Testimonial"
+msgstr ""
+
+#: include/options/global-options.php:30
+msgid "Contact"
+msgstr ""
+
+#: include/options/global-options.php:192
+msgid "Section Background Color"
+msgstr ""
+
+#: include/options/global-options.php:215
+msgid "Section Title"
+msgstr ""
+
+#: include/options/global-options.php:231
+msgid "Section Title Font"
+msgstr ""
+
+#: include/options/global-options.php:258
+msgid "Section Description"
+msgstr ""
+
+#: include/options/global-options.php:274
+msgid "Section Description Font"
+msgstr ""
+
+#: include/options/global-options.php:296
+msgid "Title Style"
+msgstr ""
+
+#: include/options/global-options.php:301
+msgid "Clear"
+msgstr ""
+
+#: include/options/global-options.php:302
+msgid "Shadowed"
+msgstr ""
+
+#: include/options/global-options.php:303
+msgid "Layered"
+msgstr ""
+
+#: include/options/global-options.php:309
+msgid "Description Position"
+msgstr ""
+
+#: include/options/global-options.php:345
+msgid "Bottom Border Style"
+msgstr ""
+
+#: include/options/global-options.php:359
+msgid "Section Spacing"
+msgstr ""
+
+#: include/options/menu-options.php:8
+msgid "Heder Menu"
+msgstr ""
+
+#: include/options/menu-options.php:39
+msgid "Menu Font"
+msgstr ""
+
+#: include/options/menu-options.php:60
+msgid "Logo"
+msgstr ""
+
+#: include/options/services-options.php:9
+msgid "Services Layout"
+msgstr ""
+
+#: include/options/services-options.php:23
+msgid "Section Icon Border Color"
+msgstr ""
+
+#: include/options/services-options.php:46
+msgid "Service Title Font"
+msgstr ""
+
+#: include/options/services-options.php:69
+msgid "Service Description Font"
+msgstr ""
+
+#: include/options/services-options.php:94
+msgid "Service Icon Color"
+msgstr ""
+
+#: include/options/services-options.php:95
+msgid "Service Text Hover"
+msgstr ""
+
+#: include/options/services-options.php:96
+msgid "Service Background"
+msgstr ""
+
+#: include/options/services-options.php:97
+msgid "Service Background Hover"
+msgstr ""
+
+#: include/options/services-options.php:152
+msgid "Corners"
+msgstr ""
+
+#: include/options/services-options.php:158
+msgid "Rounded"
+msgstr ""
+
+#: include/options/services-options.php:159
+msgid "Squared"
+msgstr ""
+
+#: include/options/services-options.php:178
+msgid "Colums In Row"
+msgstr ""
+
+#: include/options/services-options.php:219
+msgid "Icon"
+msgstr ""
+
+#: include/options/services-options.php:235
+#: include/options/slider-options.php:335
+msgid "URL"
+msgstr ""
+
+#: include/options/services-options.php:241
+msgid "Service"
+msgstr ""
+
+#: include/options/slider-options.php:14
+msgid "Slider Layout"
+msgstr ""
+
+#: include/options/slider-options.php:19
+msgid "Wide"
+msgstr ""
+
+#: include/options/slider-options.php:26
+msgid "Spacing"
+msgstr ""
+
+#: include/options/slider-options.php:44
+msgid "Slider Background Color"
+msgstr ""
+
+#: include/options/slider-options.php:59
+msgid "Slider Images Overlay"
+msgstr ""
+
+#: include/options/slider-options.php:82
+msgid "Slider height"
+msgstr ""
+
+#: include/options/slider-options.php:116
+msgid "Slider height on mobile devices"
+msgstr ""
+
+#: include/options/slider-options.php:150
+msgid "Slider Interval"
+msgstr ""
+
+#: include/options/slider-options.php:163
+msgid "Slider Animation"
+msgstr ""
+
+#: include/options/slider-options.php:168
+#: include/options/slider-options.php:356
+msgid "Slide"
+msgstr ""
+
+#: include/options/slider-options.php:169
+msgid "Fade"
+msgstr ""
+
+#: include/options/slider-options.php:175
+msgid "Animate Slider Automatically"
+msgstr ""
+
+#: include/options/slider-options.php:180
+#: include/options/testimonial-options.php:87
+msgid "Yes"
+msgstr ""
+
+#: include/options/slider-options.php:181
+#: include/options/testimonial-options.php:88
+msgid "No"
+msgstr ""
+
+#: include/options/slider-options.php:188
+msgid "Slider Title Font"
+msgstr ""
+
+#: include/options/slider-options.php:211
+msgid "Slider Description Font"
+msgstr ""
+
+#: include/options/slider-options.php:234
+msgid "Slider Caption Background Color"
+msgstr ""
+
+#: include/options/slider-options.php:297
+msgid "Slides"
+msgstr ""
+
+#: include/options/slider-options.php:320
+msgid "Image"
+msgstr ""
+
+#: include/options/slider-options.php:340
+msgid "Button text"
+msgstr ""
+
+#: include/options/slider-options.php:345
+msgid "Caption Position"
+msgstr ""
+
+#: include/options/slider-options.php:349
+msgid "Center"
+msgstr ""
+
+#: include/options/testimonial-options.php:10
+msgid "Testimonial Font"
+msgstr ""
+
+#: include/options/testimonial-options.php:33
+msgid "Testimonial Name Font"
+msgstr ""
+
+#: include/options/testimonial-options.php:82
+msgid "Animate Carousel Automatically"
+msgstr ""
+
+#: include/options/testimonial-options.php:94
+msgid "Carousel Interval"
+msgstr ""
+
+#: include/options/testimonial-options.php:113
+msgid "Testimonials"
+msgstr ""
+
+#: include/options/testimonial-options.php:135
+msgid "Photo"
+msgstr ""
+
+#: include/options/testimonial-options.php:140
+msgid "Name"
+msgstr ""
+
+#: include/options/testimonial-options.php:150
+msgid "Link"
+msgstr ""
+
+#: templates/blog/blog-fullwidth.php:30 templates/blog/blog-grid.php:34
+msgid "Read more"
+msgstr ""
+
+#: templates/blog/blog-inline.php:15
+msgid "By"
+msgstr ""
+
+#: templates/homepage-blog_section.php:31
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: templates/homepage-custom_one_section.php:27
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: templates/homepage-menu.php:24
+msgid "Toggle navigation"
+msgstr ""
